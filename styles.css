@@ -1,1 +1,29 @@
-                    
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+h1{
+  padding-top:50px;
+  text-align: center;
+  text-shadow: 4px 4px 14px rgba(150, 150, 150, 1);
+}
+.app{
+  background-color: #00006f;
+  height:50%vh;
+  margin-top:50px;
+  padding: 50px 100px;
+ -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+align-items: center;
+color:whitesmoke;
+}
+
+
+
